@@ -1,0 +1,4 @@
+two types of tag
+1.block tag-completely taking whole tag until end
+2.Inline tag-it takes only upto sentence end
+forms are used to take data from user
